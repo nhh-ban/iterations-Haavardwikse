@@ -4,7 +4,7 @@ This is the iteration assignment in BAN400. As you know -- given that you have c
 
 **Date:** 13.10.23
 
-**Name:** Håvard Wikse
+**Name:** Håvard Eimhjellen Wikse
 
 **Student number:** S203515
 
